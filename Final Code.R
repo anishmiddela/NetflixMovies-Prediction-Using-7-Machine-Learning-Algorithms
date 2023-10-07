@@ -1,5 +1,3 @@
-# Group_3
-# 545 Project
 # Prediction of Netflix Movies
 
 # Data Preprocessing
